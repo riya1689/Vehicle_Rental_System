@@ -55,16 +55,16 @@ Live URL: [https://vehicle-rental-system-rxdy.vercel.app/](https://vehicle-renta
    PORT = 5000
    CONNECTION_STRING=postgres://user:password@endpoint.neon.tech/neondb?sslmode=require
    JWT_SECRET=your_super_secret_key
-    ````
-4.  **Database Setup** 
+   ````
+4. **Database Setup**
     Ensure your database is running and the connection string is correctly in the `.env` file.
     Database tables are created automatically when the application starts.
 5.  **Run the Server** 
-## Development Mode:
+   Development Mode:
 ````
 npm run dev
 ````
-## Production Build:
+  Production Build:
 ````
 npm run build
 ````
