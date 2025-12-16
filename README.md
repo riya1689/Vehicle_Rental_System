@@ -2,7 +2,7 @@
 ## Overview
 
 **Vehicle Rental System** is maintainable and secure backend API built using Node.js, TypeScript, PostgreSQL(Neon DB).
-This rental system s role-handles vehicles, customers, bookings, authentication.
+This rental system handles role-based access,  vehicles management, customers, bookings and authentication.
 ## Live Demo
 Live URL: [https://vehicle-rental-system-rxdy.vercel.app/](https://vehicle-rental-system-rxdy.vercel.app/)
 ---
